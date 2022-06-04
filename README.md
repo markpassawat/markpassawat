@@ -1,12 +1,10 @@
-### Hi there 👋
 
-I'm a junior computer science student, KMUTT. Aspiring to be Web3 Developer 😄
+I'm Passawat Wetchasart, a junior computer science student at KMUTT, Thailand. I'm learning Go, gRPC, and web3 development.
 
-![markpassawat's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=markpassawat&theme=radical)
+
 ![markpassawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=markpassawat&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
