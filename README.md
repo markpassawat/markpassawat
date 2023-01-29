@@ -2,7 +2,6 @@
 I'm Passawat Wetchasart, a junior computer science student at KMUTT, Thailand. I'm learning Go, gRPC, and web3 development.
 
 
-![markpassawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=markpassawat&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
