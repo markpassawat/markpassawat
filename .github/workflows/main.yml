@@ -25,5 +25,5 @@ jobs:
           SHOW_PROFILE_VIEWS: 'False'
           SHOW_LINES_OF_CODE: 'False'
           SHOW_LANGUAGE_PER_REPO: 'False'
-          SHOW_TOTAL_CODE_TIME: 'False'
+          SHOW_COMMIT: 'False'
           IGNORED_REPOS: 'markpassawat'

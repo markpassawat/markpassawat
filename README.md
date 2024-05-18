@@ -1,6 +1,5 @@
 
-I'm Passawat Wetchasart, a junior computer science student at KMUTT, Thailand. I'm learning Go, gRPC, and web3 development.
-
+👋 Hi, I'm Passawat Wetchasart,a passionate software engineer dedicated to crafting elegant solutions that enhance people's lives through technology.
 
 
 <!--START_SECTION:waka-->
