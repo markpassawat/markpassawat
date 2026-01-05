@@ -3,7 +3,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C367%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C367%20hrs%2013%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -30,7 +30,7 @@ HTML                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/01/2026 20:27:07 UTC
+ Last Updated on 05/01/2026 20:29:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
