@@ -3,34 +3,10 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C542%20hrs%2056%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  119 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Thursday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Friday                   205 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Saturday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Sunday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C543%20hrs%2034%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       7 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-HTML                     4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-```
-
-
- Last Updated on 12/04/2026 20:39:51 UTC
+ Last Updated on 13/04/2026 20:59:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
