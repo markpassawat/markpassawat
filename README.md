@@ -3,8 +3,34 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C696%20hrs%2034%20mins-blue?style=flat)
 
- Last Updated on 24/07/2026 21:06:46 UTC
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Wednesday                129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   209 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Saturday                 80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.65 % 
+JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+HTTP                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+ Last Updated on 25/07/2026 20:56:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
